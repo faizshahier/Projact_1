@@ -105,7 +105,7 @@ export default function Projact_1() {
           </div>
           {/* about */}
           <div className="bg-gray-100 border-gray-300 border rounded-lg px-5 py-10 mt-30 flex gap-10">
-            <img src={img1} alt="" className="rounded-lg" />
+            <img src={img1} alt="" className="rounded-lg w-400" />
             <div>
               <h1 className="text-5xl font-medium">
                 Subscribe to my Newsletter
